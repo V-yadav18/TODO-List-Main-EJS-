@@ -1,24 +1,35 @@
-# TODO-List-Main-EJS
-This ToDo list project is build using JavaScript and EJS (Embedded JavaScript) to provide a dynamic and interactive task management experience.
+# ToDo List Project (Made with EJS)
 
-#Features
-Add Tasks: Easily add new tasks to your list.
-Mark as Done: Keep track of your progress by marking tasks as completed.
-Responsive Design: Access and manage your tasks seamlessly on various devices.
+This ToDo list project is crafted using JavaScript and EJS (Embedded JavaScript) for a dynamic and seamless task management experience.
 
-#Technologies UsedJavaScript: The core programming language for dynamic functionality.
-EJS: Empowering the project with embedded JavaScript templates for dynamic content rendering.
+## Features
 
-#Getting StartedClone Repository:
-```git clone https://github.com/your-username/todo-list.git
-Navigate to Project Directory:
-cd todo-list
-Install Dependencies:npm install
-Run the Application:npm start
-Open in Browser: Visit http://localhost:3000 in your preferred browser.
+- *Add Tasks:* Easily add new tasks to your list.
+- *Delete Tasks:* Remove completed or unnecessary tasks with a single click.
+- *Mark as Done:* Keep track of your progress by marking tasks as completed.
+- *Responsive Design:* Access and manage your tasks seamlessly on various devices.
 
-#Dependencies
-Express: Web application framework for Node.js.
-EJS: Embedded JavaScript templates for dynamic HTML rendering.
+## Technologies Used
 
-#ContributionFeel free to contribute by submitting issues or pull requests. Your feedback is valuable in enhancing this ToDo list project.
+- *JavaScript:* The core programming language for dynamic functionality.
+- *EJS:* Empowering the project with embedded JavaScript templates for dynamic content rendering.
+
+## Getting Started
+
+1. *Clone Repository:*
+   ```bash
+   git clone https://github.com/your-username/todo-list.git
+
+2. Navigate to Project Directory:
+   cd todo-list
+
+3. Install Dependencies:
+ ``` npm install ```
+
+5. Run the Application:
+   ``` npm start ```
+
+7. Open in Browser:
+  
+   ``` Visit http://localhost:3000 ``` in your preferred browser. 
+
