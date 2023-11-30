@@ -5,7 +5,6 @@ This ToDo list project is crafted using JavaScript and EJS (Embedded JavaScript)
 ## Features
 
 - *Add Tasks:* Easily add new tasks to your list.
-- *Delete Tasks:* Remove completed or unnecessary tasks with a single click.
 - *Mark as Done:* Keep track of your progress by marking tasks as completed.
 - *Responsive Design:* Access and manage your tasks seamlessly on various devices.
 
