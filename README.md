@@ -8,6 +8,10 @@ This ToDo list project is crafted using JavaScript and EJS (Embedded JavaScript)
 - *Mark as Done:* Keep track of your progress by marking tasks as completed.
 - *Responsive Design:* Access and manage your tasks seamlessly on various devices.
 
+## Deployed Link
+
+ [TODO-EJS](https://todo-ejs-fba8.onrender.com/)
+
 ## Technologies Used
 
 - *JavaScript:* The core programming language for dynamic functionality.
